@@ -1,0 +1,328 @@
+[
+    {
+        "id": 1,
+        "name": "Rainforest Trekking",
+        "image": "https://i.ibb.co.com/FXTMcz3/cem-sagisman-b-LS61-Fd-P8-E-unsplash.jpg",
+        "category": "Hiking",
+        "shortDescription": "Explore the untouched rainforest trails.",
+        "cost": 120,
+        "bookingAvailability": true,
+        "location": "Amazon Rainforest, Brazil",
+        "duration": "3 days",
+        "detailTitles": " The Essence of Eco-Environment",
+        "detailDescription": "An eco-environment represents a harmonious balance between humans and nature. It promotes sustainable practices that preserve ecosystems for future generations. By maintaining biodiversity, it ensures the survival of countless species. Eco-environments help combat climate change by reducing pollution and protecting natural habitats. They are a foundation for clean air, fresh water, and fertile soil. Sustainable living within eco-environments also reduces our carbon footprint. Renewable energy sources like solar and wind play a vital role in their maintenance. Community involvement is key to creating and protecting such environments. Schools, businesses, and governments must work together to achieve sustainability. An eco-environment fosters a healthier planet and a better future for all.",
+        "includedItems": [
+            "Guided Tour",
+            "Meals",
+            "Trekking Gear"
+        ],
+        "ecoFriendlyFeatures": [
+            "Minimal Impact Routes",
+            "Biodegradable Supplies"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Bring hiking boots",
+            "Carry eco-friendly sunscreen"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mountain Biking Adventure",
+        "image": "https://i.ibb.co.com/ft9mDwP/c-rayban-CIXo-Fys3gsw-unsplash.jpg",
+        "category": "Hiking",
+        "shortDescription": "Ride through scenic mountain trails.",
+        "cost": 90,
+        "bookingAvailability": true,
+        "location": "Rocky Mountains, USA",
+        "duration": "1 day",
+        "detailTitles": " Why Eco-Friendly Practices Matter",
+        "detailDescription": "Eco-friendly practices are crucial for sustaining life on Earth. They minimize harm to the environment and reduce resource depletion. Recycling is one such practice that lowers waste and conserves energy. Using biodegradable materials ensures that trash doesn't pollute our ecosystems. Carpooling or using public transportation cuts down on greenhouse gas emissions. Planting trees helps absorb carbon dioxide while improving air quality. Simple actions, like switching to reusable bags, reduce plastic waste. Sustainable farming preserves soil health and prevents deforestation. Eco-friendly choices not only protect nature but also enhance human well-being. Together, these practices ensure a greener, healthier planet for future generations.",
+        "adventureLevel": "Challenging",
+        "includedItems": [
+            "Mountain Bike",
+            "Helmet",
+            "Energy Snacks"
+        ],
+        "ecoFriendlyFeatures": [
+            "Plastic-Free Policy",
+            "Trail Preservation Support"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Wear protective gear",
+            "Pack water"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Coral Reef Snorkeling",
+        "image": "https://i.ibb.co.com/xXpVh5x/himanshu-singh-gurjar-i-Si02-D-Qx-w-unsplash.jpg",
+        "category": "Camping",
+        "shortDescription": "Dive into vibrant coral reef ecosystems.",
+        "cost": 70,
+        "bookingAvailability": true,
+        "location": "Great Barrier Reef, Australia",
+        "duration": "Half day",
+        "detailTitles": " The Role of Renewable Energy in Eco-Environment",
+        "detailDescription": "Renewable energy is a cornerstone of eco-environment initiatives. Sources like solar, wind, and hydroelectric power are sustainable and limitless. They reduce reliance on fossil fuels, which are major contributors to global warming. Solar panels and wind turbines generate electricity without polluting the air. Hydroelectric plants use flowing water to create energy, preserving resources. Unlike coal or oil, renewable energy produces no harmful emissions. It also creates jobs and boosts local economies. Governments worldwide are investing in these technologies for a cleaner future. Using renewable energy in homes and businesses reduces carbon footprints. This transition is essential for maintaining ecological balance.",
+        "includedItems": [
+            "Snorkeling Gear",
+            "Life Jacket",
+            "Refreshments"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-Friendly Boats",
+            "Reef Preservation Donations"
+        ],
+        "maxGroupSize": 12,
+        "specialInstructions": [
+            "Avoid sunscreen harmful to marine life",
+            "Follow reef-safe guidelines"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Wildlife Safari",
+        "image": "https://i.ibb.co.com/fx58Wkm/karthik-chandran-4e0-Pvf-HCln-I-unsplash.jpg",
+        "category": "Camping",
+        "shortDescription": "Experience the thrill of spotting rare wildlife.",
+        "cost": 150,
+        "bookingAvailability": false,
+        "location": "Serengeti National Park, Tanzania",
+        "duration": "2 days",
+        "detailTitles": " The Importance of Biodiversity",
+        "detailDescription": "Biodiversity is the variety of life forms on Earth, from plants to animals. It is critical for maintaining ecological balance and supporting human life. Healthy ecosystems depend on diverse species to function properly. For example, bees pollinate plants, ensuring food production. Forests, rich in biodiversity, regulate the climate and purify air and water. The loss of one species can disrupt entire ecosystems. Human activities, like deforestation and pollution, threaten biodiversity. Protecting habitats and promoting conservation are essential for survival. Biodiversity also has economic value, providing resources for medicine and agriculture. A world rich in biodiversity is vital for a sustainable future.",
+        "includedItems": [
+            "Safari Guide",
+            "Meals",
+            "Binoculars"
+        ],
+        "ecoFriendlyFeatures": [
+            "Electric Safari Vehicles",
+            "Waste Reduction Practices"
+        ],
+        "maxGroupSize": 15,
+        "specialInstructions": [
+            "Wear neutral-colored clothes",
+            "Carry insect repellent"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Kayaking in Mangroves",
+        "image": "https://i.ibb.co.com/ZzWnr40/louis-hansel-aq-Jfo-LKFz6c-unsplash.jpg",
+        "category": "Water_Activities",
+        "shortDescription": "Paddle through serene mangrove forests.",
+        "cost": 60,
+        "bookingAvailability": true,
+        "location": "Sundarbans, India",
+        "duration": "4 hours",
+        "detailTitles": " Reducing Carbon Footprint for Eco-Environment",
+        "detailDescription": "A carbon footprint measures the greenhouse gases emitted by human activities. Reducing it is essential to combat global warming and climate change. Simple actions, like using energy-efficient appliances, can make a big difference. Switching to renewable energy sources cuts emissions significantly. Walking, biking, or carpooling reduces fossil fuel consumption. Consuming locally-sourced and plant-based foods lowers transportation emissions. Reforestation efforts help absorb atmospheric carbon dioxide. Individuals can also offset their footprint by supporting green initiatives. Reducing waste and practicing recycling further lowers emissions. Together, these steps help create a sustainable eco-environment for future generations.",
+        "includedItems": [
+            "Kayak",
+            "Life Jacket",
+            "Local Guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "No Motorboats",
+            "Mangrove Conservation Support"
+        ],
+        "maxGroupSize": 6,
+        "specialInstructions": [
+            "Wear lightweight clothes",
+            "Bring water-resistant bags"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Desert Stargazing Camp",
+        "image": "https://i.ibb.co.com/wcxtxGR/fabio-comparelli-uq2-E2-V4-Lh-CY-unsplash.jpg",
+        "category": "Camping",
+        "shortDescription": "Sleep under a canopy of stars in the desert.",
+        "cost": 110,
+        "bookingAvailability": true,
+        "location": "Sahara Desert, Morocco",
+        "duration": "1 night",
+        "detailTitles": "Eco-Friendly Architecture and Urban Planning",
+        "detailDescription": "Modern architecture plays a pivotal role in eco-environment conservation. Green buildings use renewable materials and minimize energy consumption. Solar panels and natural lighting reduce dependency on electricity. Eco-friendly designs incorporate rainwater harvesting and efficient waste management systems. Urban planning prioritizes green spaces like parks and gardens for better air quality. Public transport systems reduce traffic congestion and emissions. Vertical gardens in cities combat urban heat and improve aesthetics. Smart homes use automated systems to conserve energy. Sustainable construction reduces environmental degradation. Combining innovation and nature ensures cities thrive without harming the planet.",
+        "includedItems": [
+            "Tent",
+            "Campfire Dinner",
+            "Telescopes"
+        ],
+        "ecoFriendlyFeatures": [
+            "Solar Lighting",
+            "Biodegradable Utensils"
+        ],
+        "maxGroupSize": 20,
+        "specialInstructions": [
+            "Bring warm clothing",
+            "Carry a flashlight"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Glacier Hiking",
+        "image": "https://i.ibb.co.com/S5WGcrJ/noaa-D7-AB6-RNJF-o-unsplash.jpg",
+        "category": "Hiking",
+        "shortDescription": "Traverse breathtaking glacial landscapes.",
+        "cost": 140,
+        "bookingAvailability": true,
+        "location": "Vatnajökull, Iceland",
+        "duration": "1 day",
+        "detailTitles": "The Power of Community in Environmental Conservation",
+        "detailDescription": "Communities play a vital role in preserving eco-environments. Collective efforts amplify the impact of conservation initiatives. Local clean-up drives remove waste and promote recycling habits. Community gardens encourage sustainable farming and biodiversity. Educational workshops raise awareness about environmental challenges. Small, localized efforts inspire larger policy changes. Eco-friendly communities often share resources, reducing overall consumption. Neighbors working together create green spaces and plant trees. Social media campaigns spread awareness and mobilize volunteers. Collaborative projects instill a sense of responsibility toward nature. United communities can create lasting change for a sustainable future.",
+        "includedItems": [
+            "Crampons",
+            "Ice Axe",
+            "Professional Guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Leave No Trace Policy",
+            "Reusable Gear"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Wear insulated clothing",
+            "Bring gloves"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Jungle Canopy Ziplining",
+        "image": "https://i.ibb.co.com/6rMFJtt/noaa-i2-Ex-Ql9w-W2-E-unsplash.jpg",
+        "category": "Adventure_Sports",
+        "shortDescription": "Fly over lush jungle canopies.",
+        "cost": 100,
+        "bookingAvailability": true,
+        "location": "Monteverde Cloud Forest, Costa Rica",
+        "duration": "2 hours",
+        "detailTitles": "Eco-Tourism: Traveling with a Purpose",
+        "detailDescription": "Eco-tourism combines travel with environmental conservation. It focuses on exploring natural areas responsibly. Tourists learn about biodiversity, local cultures, and sustainable practices. Eco-tourism promotes wildlife preservation and habitat restoration. Local economies benefit from tourism without harming nature. Activities like hiking, bird-watching, and camping offer immersive experiences. Travelers are encouraged to minimize waste and respect local ecosystems. Many destinations now offer eco-lodges and sustainable tours. Supporting eco-tourism ensures that future generations can enjoy pristine environments. It is a meaningful way to travel while giving back to the planet.",
+        "includedItems": [
+            "Harness",
+            "Helmet",
+            "Safety Briefing"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-Certified Platforms",
+            "Sustainable Construction Materials"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Wear sturdy shoes",
+            "Secure loose items"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Volcano Exploration",
+        "image": "https://i.ibb.co.com/KwB5N72/tiago-rosado-mw-V6-Ps-B-7-Bk-unsplash.jpg",
+        "category": "Hiking",
+        "shortDescription": "Hike to the summit of an active volcano.",
+        "cost": 130,
+        "bookingAvailability": false,
+        "location": "Mount Bromo, Indonesia",
+        "duration": "5 hours",
+        "detailTitles": " Water Conservation in Eco-Environment",
+        "detailDescription": "Water is a precious resource essential for life. Conserving it is critical for maintaining eco-environments. Simple steps, like fixing leaks and using water-efficient appliances, help save water. Rainwater harvesting systems collect and store rain for reuse. Planting drought-resistant crops reduces agricultural water usage. Industries adopting recycling processes lower their water consumption. Communities can build reservoirs to support ecosystems during droughts. Educating people about water scarcity raises awareness of conservation. Reducing water wastage ensures its availability for both humans and wildlife. Conservation efforts preserve ecosystems and promote sustainable living.",
+        "includedItems": [
+            "Guide",
+            "Snacks",
+            "First Aid Kit"
+        ],
+        "ecoFriendlyFeatures": [
+            "Eco-Friendly Transportation",
+            "No Plastic Policy"
+        ],
+        "maxGroupSize": 12,
+        "specialInstructions": [
+            "Carry a mask for ash",
+            "Bring a camera for stunning views"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Desert Camping under the Stars",
+        "image": "https://i.ibb.co.com/LN2ZHqz/mitchell-ng-liang-an-s34i-Tpkwn-F0-unsplash.jpg",
+        "category": "Adventure_Sports",
+        "shortDescription": "Experience the magic of desert nights with star-filled skies.",
+        "cost": 150,
+        "bookingAvailability": true,
+        "location": "Sahara Desert, Morocco",
+        "duration": "2 days",
+        "detailTitles": " Forests: The Lungs of the Planet",
+        "detailDescription": "Forests are essential for maintaining an eco-environment. They absorb carbon dioxide and release oxygen, regulating the atmosphere. Trees prevent soil erosion and maintain water cycles. Forests are home to countless species, ensuring biodiversity. They also provide resources like food, medicine, and timber. Illegal logging and deforestation threaten these vital ecosystems. Reforestation projects restore damaged forests and protect habitats. Governments and organizations must enforce laws to prevent deforestation. Supporting sustainable products reduces pressure on forest resources. Protecting forests ensures a healthier planet for all life forms.",
+        "includedItems": [
+            "Tent",
+            "Sleeping Bag",
+            "Meals"
+        ],
+        "ecoFriendlyFeatures": [
+            "Minimal Waste Policy",
+            "Solar-powered Lanterns"
+        ],
+        "maxGroupSize": 10,
+        "specialInstructions": [
+            "Carry warm clothes for the night",
+            "Stay hydrated during the day"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Jungle Night Safari",
+        "image": "https://i.ibb.co.com/1sHL9nP/noaa-2sh73-QWzo20-unsplash.jpg",
+        "category": "Water_Activities",
+        "shortDescription": "Discover nocturnal wildlife in dense forests.",
+        "cost": 80,
+        "bookingAvailability": true,
+        "location": "Amazon Rainforest, Brazil",
+        "duration": "5 hours",
+        "detailTitles": " Waste Management for a Cleaner Environment",
+        "detailDescription": "Effective waste management is crucial for eco-environment sustainability. Recycling reduces the need for raw materials and energy. Composting organic waste enriches soil and supports agriculture. Proper segregation ensures hazardous materials don’t harm ecosystems. Industries adopting zero-waste practices minimize their environmental impact. Community-driven recycling initiatives lower landfill waste. Governments play a role by regulating waste disposal systems. Encouraging the use of biodegradable products reduces plastic pollution. Reusing items extends their lifecycle and cuts down on waste. Educating people about waste management fosters a cleaner, greener planet. Together, these practices create a sustainable future.",
+        "includedItems": [
+            "Torch",
+            "Local Guide",
+            "Snacks"
+        ],
+        "ecoFriendlyFeatures": [
+            "No Plastic Usage",
+            "Support for Wildlife Conservation"
+        ],
+        "maxGroupSize": 8,
+        "specialInstructions": [
+            "Wear dark, comfortable clothes",
+            "Avoid using perfumes"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Glacier Hiking Adventure",
+        "image": "https://i.ibb.co.com/5KSKrTJ/noaa-ur-O88-Vo-CRE-unsplash.jpg",
+        "category": "Water_Activities",
+        "shortDescription": "Conquer icy terrains with experienced guides.",
+        "cost": 200,
+        "bookingAvailability": false,
+        "location": "Vatnajökull, Iceland",
+        "duration": "6 hours",
+        "detailTitles": " Sustainable Agriculture: Feeding the Future",
+        "detailDescription": "Sustainable agriculture preserves the environment while ensuring food security. It minimizes soil degradation and conserves water resources. Crop rotation and organic farming practices enhance soil fertility. Avoiding chemical pesticides protects ecosystems and human health. Farmers using renewable energy reduce carbon emissions. Agroforestry integrates trees and crops, promoting biodiversity. Supporting local farmers reduces the environmental cost of transportation. Sustainable agriculture prevents deforestation and habitat loss. Governments and NGOs must invest in eco-friendly farming techniques. This approach feeds the growing population while preserving the planet for future generations.",
+        "includedItems": [
+            "Crampons",
+            "Ice Axe",
+            "Professional Guide"
+        ],
+        "ecoFriendlyFeatures": [
+            "Leave No Trace Policy",
+            "Support for Glacier Conservation"
+        ],
+        "maxGroupSize": 5,
+        "specialInstructions": [
+            "Wear insulated clothing",
+            "Bring sunglasses to protect against glare"
+        ]
+    }
+    
+]
